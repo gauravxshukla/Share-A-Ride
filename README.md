@@ -1,2 +1,5 @@
 # Share-Your-Ride
- A petrol-partner web app made to find real time petrol partners for two people going to the same destination.
+• Unlike Tinder, you can find real time petrol partner willing to help you reach the same destination.
+• Built a CRUD application with basic functionality such as Create, Read, Update and Delete.
+• Installed an Admin panel for monitoring Users.
+• Tech Stack - Bootstrap, Node JS, Mongo DB.
